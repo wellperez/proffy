@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src=".web/src/assets/images/landing.svg" height="100px" />
+    <img alt="Proffy" src="web/src/assets/images/landing.svg" height="100px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -39,10 +39,6 @@
 ![BADGE_LICENSE] ![BADGE_WEB_REACT] ![BADGE_MOBILE_REACT_NATIVE] ![BADGE_SERVER_NODEJS] ![BADGE_OPEN_SOURCE] ![BADGE_NODE_VERSION] ![BADGE_NPM_VERSION] ![BADGE_OPEN_ISSUES] ![BADGE_CLOSED_ISSUES] ![BADGE_STARS] ![BADGE_FORKS]
 </div>
 
-<p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
-<p>
-
 ## :bookmark: Sobre
 
 O **Proffy** é uma aplicação Web/Mobile feita para auxiliar na conexão entre os alunos e os professores. Ela oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos, possibilitando buscar aulas cadastradas.
@@ -61,7 +57,7 @@ Projeto Open Source desenvolvido na #NextLevelWeek da [Rocketseat], utilizando *
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-## **:octocat: Como Executar
+## :octocat: Como Executar
 
 - ### **Pré-requisitos**
 
