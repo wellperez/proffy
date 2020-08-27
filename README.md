@@ -108,10 +108,9 @@ Feito com ❤️ por <a href="https://www.linkedin.com/in/wellperez/">Wellington
   <img alt="Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
 </a>
 </h3>
+
 ## :memo: Licença
 
-MIT [LICENSE](LICENSE.md)
+**MIT** [LICENSE](LICENSE.md)
 
----
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
-
