@@ -70,7 +70,7 @@ Projeto Open Source desenvolvido na #NextLevelWeek da [Rocketseat], utilizando *
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/HigorSnt/proffy.git
+  $ git clone git@github.com:wellperez/proffy.git
 ```
 
 2. Executando a Aplicação:
